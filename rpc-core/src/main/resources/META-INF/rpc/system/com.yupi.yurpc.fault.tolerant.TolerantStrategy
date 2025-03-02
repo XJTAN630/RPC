@@ -1,0 +1,4 @@
+failBack=tolerant.fault.com.xj.rpc.FailBackTolerantStrategy
+failFast=tolerant.fault.com.xj.rpc.FailFastTolerantStrategy
+failOver=tolerant.fault.com.xj.rpc.FailOverTolerantStrategy
+failSafe=tolerant.fault.com.xj.rpc.FailSafeTolerantStrategy

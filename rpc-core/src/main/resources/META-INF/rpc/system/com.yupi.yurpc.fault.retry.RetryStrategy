@@ -1,0 +1,2 @@
+no=retry.fault.com.xj.rpc.NoRetryStrategy
+fixedInterval=retry.fault.com.xj.rpc.FixedIntervalRetryStrategy
